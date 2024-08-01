@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="หน้า-1" id="c9O8yQq4CXu9mgSOuF9N">
+    <mxGraphModel dx="1247" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F0F0F0" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zKpPazif1eY0zF67HKhw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-1" target="zKpPazif1eY0zF67HKhw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-1" value="&lt;font color=&quot;#ffffff&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-12" target="zKpPazif1eY0zF67HKhw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-12" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;สถานะ = พร้อมใช้งาน&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;เวลานักถอยหลัง = 0 วินาที&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="342" y="160" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-14" target="zKpPazif1eY0zF67HKhw-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-14" value="&lt;font color=&quot;#f5f5f5&quot;&gt;หยอดเหรียญ&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="1">
+          <mxGeometry x="337" y="290" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-19" value="&lt;div&gt;&lt;font color=&quot;#f2f2f2&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;สถานะ = ใช้งานอยู่&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#f2f2f2&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#f2f2f2&quot;&gt;เวลานักถอยหลัง = 70 วินาที&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="342" y="410" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-21" target="zKpPazif1eY0zF67HKhw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-21" value="&lt;font color=&quot;#ededed&quot;&gt;เเสดงปุุ่มยกเลิก&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;size=0.30120481927710846;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="337" y="520" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.48795180722891;entryDy=0;entryPerimeter=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-19" target="zKpPazif1eY0zF67HKhw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="700" />
+              <mxPoint x="640" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#030303;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-25" target="zKpPazif1eY0zF67HKhw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-25" value="&lt;font color=&quot;#ebebeb&quot;&gt;กดปุ่มยกเลิก&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FCFCFC;fillColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="640" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-33" target="zKpPazif1eY0zF67HKhw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-33" target="zKpPazif1eY0zF67HKhw-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="870" />
+              <mxPoint x="700" y="1520" />
+              <mxPoint x="410" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-33" value="&lt;font color=&quot;#f2f2f2&quot;&gt;เวลานักถอยหลัง &amp;gt; 0&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FCFCFC;fillColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="810" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-38" target="zKpPazif1eY0zF67HKhw-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="1230" />
+              <mxPoint x="240" y="1230" />
+              <mxPoint x="240" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-38" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;เวลานักถอยหลัง - 1&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#080808;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1190" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0A0A0A;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-44" target="zKpPazif1eY0zF67HKhw-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="1415" />
+              <mxPoint x="280" y="1280" />
+              <mxPoint x="410" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-44" value="&lt;font color=&quot;#fcfcfc&quot;&gt;เเสดง Popup ว่า&lt;br&gt;ซักผ้าใกล้เสร็จเเล้ว&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;size=0.30120481927710846;strokeColor=#FCFCFC;fillColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1380" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0A0A0A;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-48" target="zKpPazif1eY0zF67HKhw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-48" value="&lt;font color=&quot;#ebebeb&quot;&gt;เวลานักถอยหลัง == 60&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#F5F5F5;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="990" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-50" target="zKpPazif1eY0zF67HKhw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-50" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;สถานะ = พร้อมใช้งาน&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;เวลานักถอยหลัง = 0 วินาที&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FCFCFC;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1570" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=77.48795180722891;entryDy=0;entryPerimeter=0;strokeColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="1" source="zKpPazif1eY0zF67HKhw-48" target="zKpPazif1eY0zF67HKhw-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1050" />
+              <mxPoint x="620" y="1320" />
+              <mxPoint x="414" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-62" value="&lt;font color=&quot;#f5f5f5&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FCFCFC;fillColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-71" value="&lt;font&gt;ใช่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="521" y="669" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-72" value="&lt;font&gt;ไม่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="396" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-73" value="&lt;font&gt;ไม่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="546" y="839" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-74" value="&lt;font&gt;ใช่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="399" y="945" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-75" value="&lt;font&gt;ใช่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="511" y="1022" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKpPazif1eY0zF67HKhw-76" value="&lt;font&gt;ไม่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="399" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
